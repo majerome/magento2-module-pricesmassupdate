@@ -19,11 +19,11 @@
 
 ## Summary
 
-This module was inspired by the M.academy course named [Magento Code That Sucks](https://courses.m.academy/courses/2643230/lectures/57143466) created by Mark Shust. The course compares different ways of prices for a large number of products to highlight best practices.
+This module was inspired by the M.academy course named [Magento Code That Sucks](https://courses.m.academy/courses/2643230/lectures/57143466) created by Mark Shust. The course compares different ways of updating prices for a large number of products to highlight best practices.
 
 ## Why
 
-You should use this module to get a practical example of how to use batch processing to update the price attribute for all products.
+You should use this module to get a practical example of how to use batch processing to update the price attribute for all products. It updates all product prices in bulk with the same target value, via a console command.
 This module also explores the creation of a console command, including data validation and translation issues.
 
 
