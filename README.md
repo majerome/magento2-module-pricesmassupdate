@@ -30,7 +30,7 @@ This module also explores the creation of a console command, including data vali
 ## Installation
 
 ```
-composer require majerome/magento2-module-disabletwofactorauth
+composer require majerome/magento2-module-pricesmassupdate
 bin/magento module:enable Majerome_PricesMassUpdate
 bin/magento setup:upgrade
 ```
